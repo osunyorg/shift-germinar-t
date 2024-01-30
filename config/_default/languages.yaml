@@ -5,6 +5,8 @@ en:
   contentDir: content/en
   languageCode: en
   languageName: English
+  params:
+    social:
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
@@ -21,6 +23,8 @@ de:
   contentDir: content/de
   languageCode: de
   languageName: Deutsch
+  params:
+    social:
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
@@ -37,6 +41,8 @@ fr:
   contentDir: content/fr
   languageCode: fr
   languageName: Français
+  params:
+    social:
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
