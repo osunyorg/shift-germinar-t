@@ -6,4 +6,10 @@ params:
   summary:
     position: hero
   search:
-    active: false  
+    active: false
+  seo:
+    title:
+      separator: "•"
+  logo:
+    header: "/assets/images/logo-black-on-white.svg"
+    footer: "/assets/images/logo-black.svg"
