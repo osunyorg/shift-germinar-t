@@ -10,8 +10,8 @@ items:
   kind: blank
   children: []
 - title: Place
-  target: ''
-  kind: blank
+  target: "/en/place/"
+  kind: page
   children: []
 - title: About Us
   target: "/en/team/"
