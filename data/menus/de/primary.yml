@@ -17,4 +17,32 @@ items:
   target: "/de/organisations/"
   kind: page
   children: []
+- title: Projets
+  target: "/de/projets/"
+  kind: page
+  children: []
+- title: Diplômes
+  target: "/de/diplomes/"
+  kind: page
+  children: []
+- title: Formations
+  target: "/de/formations/"
+  kind: page
+  children: []
+- title: Volumes
+  target: "/de/volumes/"
+  kind: page
+  children: []
+- title: Papiers
+  target: "/de/papiers/"
+  kind: page
+  children: []
+- title: Publications HAL
+  target: "/de/publications/"
+  kind: page
+  children: []
+- title: Campus
+  target: "/de/campus/"
+  kind: page
+  children: []
 
