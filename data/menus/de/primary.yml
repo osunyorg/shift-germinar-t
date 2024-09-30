@@ -1,8 +1,20 @@
 ---
 title: Menu principal
 items:
+- title: Actualités
+  target: "/de/actualites/"
+  kind: page
+  children: []
 - title: Agenda
   target: "/de/agenda/"
+  kind: page
+  children: []
+- title: Équipe
+  target: "/de/equipe/"
+  kind: page
+  children: []
+- title: Organisations
+  target: "/de/organisations/"
   kind: page
   children: []
 
