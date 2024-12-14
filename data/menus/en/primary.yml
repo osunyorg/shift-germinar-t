@@ -5,6 +5,7 @@ items:
   target: "/en/agenda/"
   kind: page
   children: []
+  path: "/events"
   file: content/en/events/_index.html
 - title: Previous
   target: ''
@@ -14,10 +15,12 @@ items:
   target: "/en/place/"
   kind: page
   children: []
+  path: "/pages/place"
   file: content/en/pages/place/_index.html
 - title: About Us
   target: "/en/team/"
   kind: page
   children: []
+  path: "/persons"
   file: content/en/persons/_index.html
 
