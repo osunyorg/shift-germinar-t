@@ -1,8 +1,32 @@
 ---
 title: Menu principal
 items:
+- title: Actualités
+  target: "/de/actualites/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/posts"
+  file: content/de/posts/_index.html
 - title: Agenda
   target: "/de/agenda/"
   kind: page
+  new_tab: false
   children: []
+  path: "/events"
+  file: content/de/events/_index.html
+- title: Équipe
+  target: "/de/equipe/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/persons"
+  file: content/de/persons/_index.html
+- title: Organisations
+  target: "/de/organisations/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/organizations"
+  file: content/de/organizations/_index.html
 

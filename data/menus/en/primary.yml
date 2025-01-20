@@ -4,17 +4,27 @@ items:
 - title: Upcoming
   target: "/en/agenda/"
   kind: page
+  new_tab: false
   children: []
+  path: "/events"
+  file: content/en/events/_index.html
 - title: Previous
   target: ''
   kind: blank
+  new_tab: false
   children: []
 - title: Place
   target: "/en/place/"
   kind: page
+  new_tab: false
   children: []
+  path: "/pages/place"
+  file: content/en/pages/place/_index.html
 - title: About Us
   target: "/en/team/"
   kind: page
+  new_tab: false
   children: []
+  path: "/persons"
+  file: content/en/persons/_index.html
 

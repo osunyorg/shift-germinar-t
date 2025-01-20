@@ -18,16 +18,16 @@ jobs:
     - name: Installation de Node
       uses: actions/setup-node@v3
       with:
-        node-version: 'latest'
+        node-version: 'lts/*'
         cache: 'yarn'
 
     - name: Installation des dépendances JavaScript
       run: yarn install
 
     - name: Installation de Hugo
-      uses: peaceiris/actions-hugo@v2.6.0
+      uses: peaceiris/actions-hugo@v3.0.0
       with:
-        hugo-version: 'latest'
+        hugo-version: '0.136.5'
         extended: true
 
     - name: Compilation du site
