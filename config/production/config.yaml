@@ -2,6 +2,11 @@
 
 baseURL: https://germinar-t.shift.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 397afae7-f555-4961-a7f1-013a17af29dd
+
 ## LANGUAGE
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
