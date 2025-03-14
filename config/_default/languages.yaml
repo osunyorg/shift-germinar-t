@@ -12,7 +12,7 @@ de:
 
   permalinks:
     events: /agenda/:year/:slug/
-    exhibitions: /:year-:month-:day-:slug/
+    exhibitions: /expositions/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     pages_categories: /:slug/
     posts: /actualites/:year-:month-:day-:slug/
@@ -76,7 +76,7 @@ fr:
 
   permalinks:
     events: /agenda/:year/:slug/
-    exhibitions: /:year-:month-:day-:slug/
+    exhibitions: /expositions/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     pages_categories: /:slug/
     posts: /actualites/:year-:month-:day-:slug/
