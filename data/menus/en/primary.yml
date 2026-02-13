@@ -2,29 +2,37 @@
 title: Main menu
 items:
 - title: Upcoming
+  slug: upcoming
   target: "/en/agenda/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/en/events/_index.html
 - title: Previous
+  slug: previous
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Place
+  slug: place
   target: "/en/place/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/place"
   file: content/en/pages/place/_index.html
 - title: About Us
+  slug: about-us
   target: "/en/team/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/persons"
   file: content/en/persons/_index.html
 
