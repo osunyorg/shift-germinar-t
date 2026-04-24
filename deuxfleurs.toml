@@ -15,10 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/en/agenda/2024-10-01-degrowth-art/index.html"
+from = "/en/agenda/2024-10-01-degrowth-art/"
 to = "/en/agenda/2024/degrowth-art/"
 
 [[redirects]]
-from = "/en/agenda/2024-09-01-degrowth-art/index.html"
+from = "/en/agenda/2024-09-01-degrowth-art/"
 to = "/en/agenda/2024/degrowth-art/"
 
